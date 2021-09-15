@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CipDanila
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning React.js, Django
+- 🌱 I’m currently learning React (with JavaScript), Django (with Python), SpringBoot (with Java)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ciprian.danila@yahoo.com
 
